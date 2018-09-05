@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/pythonCode/apscheduler-master/.idea/apscheduler-master.iml" filepath="D:/pythonCode/apscheduler-master/.idea/apscheduler-master.iml" />
+      <module fileurl="file://D:/pythonCode/django-apscheduler-master/django_apscheduler/.idea/django_apscheduler.iml" filepath="D:/pythonCode/django-apscheduler-master/django_apscheduler/.idea/django_apscheduler.iml" />
+      <module fileurl="file://D:/pythonCode/django-apscheduler-master/examples/example_apscheduler/.idea/example_apscheduler.iml" filepath="D:/pythonCode/django-apscheduler-master/examples/example_apscheduler/.idea/example_apscheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/helloworld.iml" filepath="$PROJECT_DIR$/.idea/helloworld.iml" />
+    </modules>
+  </component>
+</project>
